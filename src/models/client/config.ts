@@ -1,6 +1,6 @@
 import env from "@/app/env";
 
-import { Client, Account, Avatars, Databases, Storage } from "appwrite";
+import { Client, Account, Avatars, Databases, Storage} from "appwrite";
 
 
 
