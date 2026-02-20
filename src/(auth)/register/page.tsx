@@ -1,3 +1,5 @@
+"use client"
+
 import { useAuthStore } from "@/store/Auth";
 import React from "react";
 
@@ -58,7 +60,7 @@ function RegisterPage() {
             )}
 
             <form onSubmit={handleSubmit}>
-                
+
             </form>
 
         </div>
